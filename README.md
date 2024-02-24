@@ -1,2 +1,2 @@
-# Java-Script
+# JavaScript
 Repo for Learning JS
